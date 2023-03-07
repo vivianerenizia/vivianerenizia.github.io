@@ -10,6 +10,7 @@
 **Experiência profissional**:
 > Inmetrics:
 >>  Cientista de Dados Junior (Set/2021 - Atualmente)
+>>
 >>  Tech Talent em Ciência de Dados (Jan/2021 - Ago/2021)
 
 > Fundação Arthur Bernardes:
@@ -25,30 +26,56 @@
 
 **Habilidades:**
 > Programação Python;
+>
 > Construção de chatbots com Python;
+> 
 > Modelagem de dados relacionais;
+> 
 > Tratamento e análise de dados;
+> 
 > Desenvolvimento de scripts Python padronizados;
+> 
 > GIT;
+> 
 > Agendamento de scripts via Crontab.
+> 
 > Linguagem SQL e No-SQL;
+> 
 > Banco de dados relacional Postgres;
+> 
 > Banco de dados relacional Oracle;
+> 
 > Banco de dados não relacional Cassandra;
+> 
 > Implementação de modelos para detecção de dados não estacionários e anomalias;
+> 
 > Implementação de modelos para Forecast utilizando FBProphet;
+> 
 > Construção de pipelines completos de dados;
+> 
 > Linux;
+> 
 > Construção de ETLs;
+> 
 > Implementação de DAGs Airflow;
+> 
 > Gerenciamento do Apache Airflow;
+> 
 > Construção de queries SQL: implementação de triggers e funções com PL/SQL e PL/pgSQL.
+> 
 > SQLAlchemy: adaptação de SQL para SQLAlchemy em aplicações Python.
+
 > PowerBI: criação de dashboards a partir da ferramenta;
+> 
 > Flask framework;
-> Gerenciamento de trabalho com ferramenta Jira e Azure Devops
+> 
+> Gerenciamento de trabalho com ferramenta Jira e Azure Devops;
+> 
 > Análise de dados e desenvolvimento de métricas de testes/releases/incidentes em ambiente de banco;
+> 
 > Docker básico;
+> 
 > AWS iniciante;
+> 
 > Rundeck.
 
