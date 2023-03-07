@@ -1,7 +1,11 @@
-# Viviane Renizia Mendes Silva
+# Viviane R M Silva
 
-**Universidade Federal de Viçosa - Campus Rio Paranaíba (UFV-CRP)**:
-> Sistemas de Informação (2017 - Atualmente)
+**Quem sou eu?**:
+> Meu nome é Viviane Renizia Mendes Silva, tenho 23 anos e sou de Minas Gerais. Estou cursando Sistemas de Informação pela Universidade Federal de Viçosa - Campus Rio Paranaíba e trabalho como Cientista de Dados há aproximadamente 2 anos e meio. Sendo menos técnica: amo gatos, histórias em quadrinhos, filmes e histórias de suspense e terror, animações, passeios de bike e jogos eletrônicos.
+
+**Educação:**:
+> Universidade Federal de Viçosa - Campus Rio Paranaíba (UFV-CRP):
+>> Sistemas de Informação (2017 - Atualmente)
 
 **Inmetrics**:
 > Tech Talent em Ciência de Dados (Jan/2021 - Ago/2021)
