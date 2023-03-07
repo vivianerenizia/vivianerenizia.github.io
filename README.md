@@ -24,6 +24,40 @@
 
 > Engenharia de Dados
 
+**Cursos e certificações**:
+> Neural Networks and Deep Learning - DeepLearning.AI:
+>> Certificação da DeepLearning.AI adquirida através da Coursera.  Pode ser verificado no link abaixo: https://coursera.org/verify/KXEUEJH7T28S
+
+> NLP - Natural Language Processing with Python - Udemy:
+>> Pode ser verificado em: https://ude.my/UC-9dedd3ee-7a76-467c-ba60-6f8707da64b0/
+
+> Writing production-ready ETL pipelines in Python/Pandas - Udemy:
+>> Pode ser verificado em: https://ude.my/UC-3a5f1b6b-0235-4d7d-839b-ed8c38fedf1a
+
+> Data Science - Data Science do Zero O'reilly - 54 horas:
+>> Pode ser verificado na Inmetrics Academy
+
+> PowerBI completo - Do básico ao avançado -  Udemy:
+>> Pode ser verificado em: https://ude.my/UC-31852433-67f9-4dd8-8032-b10a167078ad
+
+> Python for Time Series Data Analysis - Udemy:
+>> Pode ser verificado em: https://www.udemy.com/certificate/UC-fdbc73f9-1e7f-47ff-b463-25198ecce6c5/
+
+> Matemática para Machine Learning:
+>> Pode ser verificado na Inmetrics Academy
+
+> Clustering Básico: k-means, DBSCAN e mean shift - Alura:
+>> Pode ser verificado em: https://cursos.alura.com.br/certificate/655d28bd-e978-406a-9ead-4865ffb7516f
+
+> Regressão Linear: Testando Relações e Prevendo Resultados - Alura:
+>> Pode ser verificado em: https://cursos.alura.com.br/certificate/6f132331-9c7a-465f-9e09-5c5e6c7c3100
+
+> Treinamento Jira (Scrum):
+>> Pode ser verificado na Inmetrics Academy
+
+> Estatística Básica:
+>> Pode ser verificado em: https://www.siadoc.ufv.br/validar-documento com o registro 8QUR.1IAM.9VVF
+
 **Habilidades:**
 > Programação Python;
 >
