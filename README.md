@@ -13,6 +13,12 @@
 
 >>  Tech Talent em Ciência de Dados (Jan/2021 - Ago/2021)
 
+> Fundação Arthur Bernardes:
+>> Estagiária (Desenvolvimento de conteúdos de informaática)
+
+> Universidade Federal de Viçosa:
+>> Estagiária (Organização e aplicação de cursos de tecnologia)
+
 **Interesses de carreira**:
 > Ciência de Dados
 
