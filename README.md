@@ -1,16 +1,17 @@
 # Viviane R M Silva
 
-**Quem sou eu?**:
+**Quem sou eu?**
 > Meu nome é Viviane Renizia Mendes Silva, tenho 23 anos e sou de Minas Gerais. Estou cursando Sistemas de Informação pela Universidade Federal de Viçosa - Campus Rio Paranaíba e trabalho como Cientista de Dados há aproximadamente 2 anos e meio. Sendo menos técnica: amo gatos, histórias em quadrinhos, filmes e histórias de suspense e terror, animações, passeios de bike e jogos eletrônicos.
 
-**Educação:**:
+**Educação**:
 > Universidade Federal de Viçosa - Campus Rio Paranaíba (UFV-CRP):
 >> Sistemas de Informação (2017 - Atualmente)
 
-**Inmetrics**:
-> Tech Talent em Ciência de Dados (Jan/2021 - Ago/2021)
+**Experiência profissional**:
+> Inmetrics:
+>>  Cientista de Dados Junior (Set/2021 - Atualmente)
 
-> Cientista de Dados Junior (Set/2021 - Atualmente)
+>>  Tech Talent em Ciência de Dados (Jan/2021 - Ago/2021)
 
 **Interesses de carreira**:
 > Ciência de Dados
