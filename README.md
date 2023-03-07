@@ -79,3 +79,9 @@
 > 
 > Rundeck.
 
+**Idiomas:**
+> Português brasileiro:
+>> Nativo.
+>
+> Inglês:
+>> Avançado.
