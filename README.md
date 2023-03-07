@@ -64,7 +64,7 @@
 > Construção de queries SQL: implementação de triggers e funções com PL/SQL e PL/pgSQL.
 > 
 > SQLAlchemy: adaptação de SQL para SQLAlchemy em aplicações Python.
-
+>
 > PowerBI: criação de dashboards a partir da ferramenta;
 > 
 > Flask framework;
